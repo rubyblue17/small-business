@@ -1,0 +1,58 @@
+.form-line-active {
+	background-color: #FFFFFF;
+}
+
+.form-required {
+
+color: #777 !important;
+
+}
+
+.form-line-error {
+
+/*border: 1px solid #e15353 !important;*/
+background-color: transparent !important; 
+
+}
+
+.form-error-message {
+width: 75% !important;
+}
+
+
+
+.form-header-group {
+        background: transparent;
+        border-bottom: none;
+}
+
+.form-header {
+        font-family: 'Lobster', Impact, Arial;
+        text align: center;
+        color: #888888;
+		border-bottom: none;
+		background: transparent;
+}
+
+.form-subHeader {
+	border: 0px;
+	font-size: 10px;
+	color: # 999;
+}
+
+.form-label {
+        font-family: Helvetica, Arial;
+        color: #888888;
+}
+
+.form-all {
+margin: auto;
+padding-left: 50px;
+}
+
+.form-textbox{
+background-color: #efefef !important;
+    }
+    .form-textarea {
+        background-color: #efefef!important;
+    }
